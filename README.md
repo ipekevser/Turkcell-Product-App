@@ -1,1 +1,0 @@
-# Turkcell-Product-App
